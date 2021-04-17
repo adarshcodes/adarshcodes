@@ -31,5 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshcodes&show_icons=true&locale=en&layout=compact" alt="adarshcodes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshcodes&show_icons=true&locale=en" alt="adarshcodes" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/Pin/?username=adarshcodes&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/Pin/?username=adarshcodes&theme=black" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshcodes&" alt="adarshcodes" /></p>
