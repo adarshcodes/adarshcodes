@@ -31,5 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshcodes&show_icons=true&locale=en&layout=compact" alt="adarshcodes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshcodes&show_icons=true&locale=en" alt="adarshcodes" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/Pin/?username=adarshcodes&theme=black" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarshcodes&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshcodes&" alt="adarshcodes" /></p>
