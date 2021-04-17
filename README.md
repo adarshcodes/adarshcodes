@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **How to React, Entrepreneurship, Content Creation, Public Speaking, Money Game, And Value Addition.**
 
-- 🤝 I can help you with **Your Project, Your problems(Code/Life)**
+- 🤝 I can help you with **Your Projects, Your problems(Code/Life)**
 
 - 💬 Ask me about **HTML, CSS, JS, Java, Life, Universe, Astronomy, Time-Travel, Books, Nature, Love, Future tech, Humans, Psychology etc.**
 
