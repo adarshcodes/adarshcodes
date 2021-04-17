@@ -31,7 +31,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshcodes&show_icons=true&locale=en&layout=compact" alt="adarshcodes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshcodes&show_icons=true&locale=en" alt="adarshcodes" /></p>
-<a href="https://github.com/adarshcodes/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarshcodes&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/adarshcodes/covid19tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarshcodes&repo=Covid-19 Tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
+<a href="https://github.com/adarshcodes/premium-myteam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarshcodes&repo=Premium Myteam&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshcodes&" alt="adarshcodes" /></p>
