@@ -13,7 +13,7 @@
 
 - 🤝 I can help you with **Your Projects, Your problems(Code/Life)**
 
-- 💬 Ask me about **HTML, CSS, JS, Java, Life, Universe, Astronomy, Time-Travel, Books, Nature, Love, Future tech, Humans, Psychology etc.**
+- 💬 Ask me about **HTML, CSS, JS, Java, Life, Universe, Astronomy, Time-Travel, Books, Nature, Love, Future Tech, Humans, Psychology, Dark-Web, Aliens, Robots etc.**
 
 - 📫 How to reach me **adarshpratapofficial@gmail.com**
 
