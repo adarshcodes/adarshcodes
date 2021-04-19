@@ -22,8 +22,8 @@
 <h2 align="left">Connect with me:</h2> 
 
 <p align="left">
-<a href="https://twitter.com/ideallyadarsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ideallyadarsh" height="30" width="40" /></a>
-<a href="https://instagram.com/officiallyadarsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="officiallyadarsh" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/ideallyadarsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ideallyadarsh" height="30" width="40" /></a>
+<a href="https://instagram.com/officiallyadarsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="officiallyadarsh" height="30" width="40" /></a> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimgedik/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:altaysimsek16@gmail.com)](mailto:ibrahimgediktc@gmail.com)
