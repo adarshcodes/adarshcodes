@@ -19,13 +19,13 @@
 
 - ⚡ Fun fact **I believe, I'm someone who can Help you somehow.**
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">  
+<h2 align="left">Connect with me:</h2> 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimgedik/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:altaysimsek16@gmail.com)](mailto:ibrahimgediktc@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ideallyAdarsh)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/officiallyadarsh/)
-</p>
+
+<hr>
 
 <h2>Pinned Tweet</h2>
 <p><a href="https://www.twitter.com/ideallyadarsh"><img src="https://github.com/adarshcodes/adarshcodes/blob/main/twitter-snap.PNG" width="600"></a></p>
