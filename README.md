@@ -20,10 +20,7 @@
 - ⚡ Fun fact **I believe, I'm someone who can Help you somehow.**
 
 <h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/ideallyadarsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ideallyadarsh" height="30" width="40" /></a>
-<a href="https://instagram.com/officiallyadarsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="officiallyadarsh" height="30" width="40" /></a>
-  
+<p align="left">  
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimgedik/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:altaysimsek16@gmail.com)](mailto:ibrahimgediktc@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ideallyAdarsh)
