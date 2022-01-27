@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Adarsh Pratap Singh</h1>
+<h1 align="center">Hey, I'm Adarsh Pratap Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1>
 <h2 align="center">A Frontend Developer👨‍💻, Content Creator 📹, A Bibiliophile📚, Learning about Entrepreneurship🕴, A Tech Enthusiast💻, A Great Learner👍, And A Boy In Search Of Infinity♾.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshcodes&label=Profile%20views&color=0e75b6&style=flat" alt="adarshcodes" /> </p>
@@ -13,7 +13,7 @@
 
 - 🤝 I can help you with **Your Projects, Your problems(Code/Life)**
 
-- 💬 Ask me about **HTML, CSS, SASS, JS, Java, Life, Universe, Astronomy, Time-Travel, Books, Nature, Love, Future Tech, Humans, Psychology, Dark-Web, Aliens, Robots etc.**
+- 💬 Ask me about **HTML, CSS, SASS, JS, Java, Life, Universe, Astronomy, Time-Travel, Books, Nature, Love, Sex, Future-Tech, Humans, Psychology, Dark-Web, Aliens, Robots, Money, Stocks, Computers, Deep-web and Anything which came across your mind.**
 
 - 📫 How to reach me **adarshpratapofficial@gmail.com**
 
