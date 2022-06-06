@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Adarsh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px !important"></h1>
+<h1 align="center">Hey, I'm Adarsh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"></h1>
 <h2 align="center">A Frontend Developer👨‍💻, Content Creator 📹, A Bibiliophile📚, Learning about Entrepreneurship🕴, A Tech Enthusiast💻, A Great Learner👍, And A Boy In Search Of Infinity♾.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshcodes&label=Profile%20views&color=0e75b6&style=flat" alt="adarshcodes" /> </p>
