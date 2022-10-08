@@ -34,7 +34,7 @@
 
 <hr>
 <br>
-![Snake animation](https://github.com/adarshcodes/adarshcodes/blob/output/github-contribution-grid-snake.svg)
+<a href=#><img src="https://github.com/adarshcodes/adarshcodes/blob/output/github-contribution-grid-snake.svg"></a>
 <br>
 <hr>
 
