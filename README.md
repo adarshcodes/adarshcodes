@@ -33,6 +33,10 @@
 </p>
 
 <hr>
+<br>
+![Snake animation](https://github.com/adarshcodes/adarshcodes/blob/output/github-contribution-grid-snake.svg)
+<br>
+<hr>
 
 <h2>Pinned Tweet</h2>
 <p><a href="https://www.twitter.com/ideallyadarsh"><img src="https://github.com/adarshcodes/adarshcodes/blob/main/twitter-snap.PNG" width="600"></a></p>
