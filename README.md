@@ -33,10 +33,6 @@
 </p>
 
 <hr>
-<br>
-<a href=#><img src="https://github.com/adarshcodes/adarshcodes/blob/output/github-contribution-grid-snake.svg"></a>
-<br>
-<hr>
 
 <h2>Pinned Tweet</h2>
 <p><a href="https://www.twitter.com/ideallyadarsh"><img src="https://github.com/adarshcodes/adarshcodes/blob/main/twitter-snap.PNG" width="600"></a></p>
@@ -48,3 +44,5 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshcodes&show_icons=true&locale=en" alt="adarshcodes" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshcodes&" alt="adarshcodes" /></p>
+
+<a href=#><img src="https://github.com/adarshcodes/adarshcodes/blob/output/github-contribution-grid-snake.svg"></a>
